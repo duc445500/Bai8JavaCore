@@ -3,7 +3,6 @@ package DongGoi;
 public class Containter {
     private String containerNumber;
     private String containerType;
-    private String containerHeight;
 
     public void setContainerNumber(String coNumber){
         this.containerNumber = coNumber;
